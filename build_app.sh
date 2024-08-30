@@ -1,0 +1,1 @@
+clang++ ./test_arithmetic.cc -L${PWD} -larithmetic -o ./test_arithmetic
